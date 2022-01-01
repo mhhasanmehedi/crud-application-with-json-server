@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Mehedi Hasan",
+      "username": "mehedihasan",
+      "email": "mehedihasan@gmail.com",
+      "phone": "+1234567890",
+      "id": 1
+    },
+    {
+      "name": "Mehrab Nurullah",
+      "username": "hsnnurullah",
+      "email": "hsnnurullah@gmail.com",
+      "phone": "65467987465",
+      "id": 2
+    }
+  ]
+}
